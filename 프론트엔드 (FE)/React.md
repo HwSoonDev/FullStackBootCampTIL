@@ -20,13 +20,13 @@ facebook의 개발자가 자사 용으로 만든 프레임워크
 | 6. [React 기능 구현 (실습 정리)](https://github.com/pondsharky/FullStackBootCampTIL/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%20(FE)/%ED%8F%B4%EB%8D%94/React/%EB%85%B8%ED%8A%B8/React%20%EA%B8%B0%EB%8A%A5%20%EA%B5%AC%ED%98%84%20(Foodit%20%EC%8B%A4%EC%8A%B5).md) |                                                |            |
 
 #### 용어 정리
-- [컴포넌트]()
-- [훅(Hook)]()
-- [사이드 이펙트]()
+- [컴포넌트](https://github.com/pondsharky/FullStackBootCampTIL/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%20(FE)/%ED%8F%B4%EB%8D%94/React/%EC%9A%A9%EC%96%B4%EC%A0%95%EB%A6%AC/%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8.md)
+- [훅(Hook)](https://github.com/pondsharky/FullStackBootCampTIL/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%20(FE)/%ED%8F%B4%EB%8D%94/React/%EC%9A%A9%EC%96%B4%EC%A0%95%EB%A6%AC/%ED%9B%85(Hook).md)
+- [사이드 이펙트](https://github.com/pondsharky/FullStackBootCampTIL/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%20(FE)/%ED%8F%B4%EB%8D%94/React/%EC%9A%A9%EC%96%B4%EC%A0%95%EB%A6%AC/%EC%82%AC%EC%9D%B4%EB%93%9C%20%EC%9D%B4%ED%8E%99%ED%8A%B8.md)
 
 #### 추가 공부
-- [React 배포하기]()
-- [기존 정적 html을 그대로 넣으려면]()
+- [React 배포하기](https://github.com/pondsharky/FullStackBootCampTIL/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%20(FE)/%ED%8F%B4%EB%8D%94/React/%EA%B0%80%EC%9D%B4%EB%93%9C/React%20%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0.md)
+- [기존 정적 html을 그대로 넣으려면](https://github.com/pondsharky/FullStackBootCampTIL/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%20(FE)/%ED%8F%B4%EB%8D%94/React/%EA%B0%80%EC%9D%B4%EB%93%9C/%EA%B8%B0%EC%A1%B4%20%EC%A0%95%EC%A0%81%20html%EC%9D%84%20%EA%B7%B8%EB%8C%80%EB%A1%9C%20%EB%84%A3%EC%9C%BC%EB%A0%A4%EB%A9%B4.md)
 
 
 #### 여담 
