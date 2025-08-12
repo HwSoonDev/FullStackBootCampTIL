@@ -175,14 +175,14 @@ function CorsePage(){
 
 ## 3. 커스텀 훅
 
-리액트 라우터의 커스텀 훅. [커스텀 훅 (React Router)]()
+리액트 라우터의 커스텀 훅. [커스텀 훅 (React Router)](https://github.com/pondsharky/FullStackBootCampTIL/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%20(FE)/%ED%8F%B4%EB%8D%94/React/%EC%A0%95%EB%A6%AC%20%ED%8F%B4%EB%8D%94/Router%20%EB%9D%BC%EC%9A%B0%ED%84%B0/%EC%BB%A4%EC%8A%A4%ED%85%80%20%ED%9B%85%20(RRD).md)
 
 -  useParams - 동적 경로
 -  useSearchParams - 쿼리 설정
 -  useNavigate - 함수 안에 페이지 이동 기능 만들기
 ## 4. 싱글페이지 애플리케이션 (SPA)
 
-라우터의 중요 특징 [싱글 페이지 애플리케이션 (SPA)]()
+라우터의 중요 특징 [싱글 페이지 애플리케이션 (SPA)](https://github.com/pondsharky/FullStackBootCampTIL/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%20(FE)/%ED%8F%B4%EB%8D%94/React/%EC%A0%95%EB%A6%AC%20%ED%8F%B4%EB%8D%94/Router%20%EB%9D%BC%EC%9A%B0%ED%84%B0/%EC%8B%B1%EA%B8%80%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20(SPA).md)
 
 
 
