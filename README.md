@@ -89,4 +89,11 @@
 
 
 ### 8주차
-- (08/11) React 기초 마무리, 깃헙 TIL 생성. ( + 이전 React 파트 정리 업로드)
+- 08/11
+  -  React 기초 마무리, 깃헙 TIL 생성. ( + 이전 React 파트 정리 업로드)
+- 08/12
+  - React 웹페이지 만들기
+  - [React Router]()
+    -  Routes / LInk
+    -  RRD 커스텀 훅
+    -  싱글 페이지 애플리케이션(SPA)
