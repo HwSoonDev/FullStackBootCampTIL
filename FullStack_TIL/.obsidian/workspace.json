@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "de991e9ceb278ed0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0daa83e83159be8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9576b1a999241338",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "웹 개발/백엔드 (BE)/DB/관계형/Prisma/2. 관계/onDelete (참조 개체가 사라지면..).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "onDelete (참조 개체가 사라지면..)"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "32b18b70f7fad1bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "910205acb38e4bb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dba4844963be89b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "d6b3d5353dc2c840",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "ec01d9d1e3f8435c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.5
+  },
+  "right": {
+    "id": "e63ce57da5955039",
+    "type": "split",
+    "children": [
+      {
+        "id": "afbdf5e2e3c686eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f5a0ad6361325d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git/command.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "command 의 백링크"
+            }
+          },
+          {
+            "id": "dd5fcd0d92ba8e9e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git/command.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "command 의 나가는 링크"
+            }
+          },
+          {
+            "id": "fc4122aa9d2a31fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "02ea1154315ed5a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git/Git.md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Git 의 개요"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:새 베이스 생성하기": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "9576b1a999241338",
+  "lastOpenFiles": [
+    "Attatched File/Pasted image 20250918185409.png",
+    "Attatched File/Pasted image 20250918185318.png",
+    "Attatched File/Pasted image 20250918185126.png",
+    "웹 개발/백엔드 (BE)/DB/관계형/Prisma/2. 관계/ERD (E-R 다이어그램).md",
+    "웹 개발/백엔드 (BE)/DB/관계형/Prisma/2. 관계/onDelete (참조 개체가 사라지면..).md",
+    "웹 개발/백엔드 (BE)/DB/관계형/Prisma/1. 기본 개념/무제.md",
+    "웹 개발/백엔드 (BE)/DB/관계형/Prisma/2. 관계/다대다 만들기.md",
+    "웹 개발/백엔드 (BE)/DB/관계형/Prisma/2. 관계/일대일 만들기.md",
+    "웹 개발/백엔드 (BE)/DB/관계형/Prisma/1. 기본 개념/마이그레이션.md",
+    "웹 개발/백엔드 (BE)/DB/관계형 vs 비관계형.md",
+    "한 마디 글귀/협업 한마디.md",
+    "Attatched File/Pasted image 20250807092343.png",
+    "Attatched File/Pasted image 20250918154908.png",
+    "Attatched File/Pasted image 20250918154806.png",
+    "Attatched File/Pasted image 20250918154638.png",
+    "Attatched File/Pasted image 20250918153904.png",
+    "웹 개발/백엔드 (BE)/DB/관계형/Prisma/2. 관계",
+    "웹 개발/백엔드 (BE)/DB/관계형/Prisma/기본 개념/무제.md",
+    "웹 개발/백엔드 (BE)/DB/관계형/Prisma/1. 기본 개념/시딩.md",
+    "웹 개발/백엔드 (BE)/DB/관계형/Prisma/1. 기본 개념",
+    "웹 개발/백엔드 (BE)/DB/관계형/Prisma/1. 기본 개념/오류 처리하기.md",
+    "웹 개발/백엔드 (BE)/DB/관계형/Prisma/1. 기본 개념/유효성 검사.md",
+    "웹 개발/백엔드 (BE)/DB/관계형/Prisma/1. 기본 개념/필터 조건.md",
+    "웹 개발/백엔드 (BE)/DB/관계형/Prisma/1. 기본 개념/CRUD 메서드.md",
+    "웹 개발/프론트엔드 (FE)/폴더/Next.js/메인 노트/Tailwind.md",
+    "IDE/vscode/멀티 커서.md",
+    "IDE/vscode/vscode extension/Prettier (코드 포매터).md",
+    "IDE/vscode/vscode extension/SImple React Snippets.md",
+    "IDE/vscode/vscode extension/Live Share.md",
+    "웹 개발/프론트엔드 (FE)/폴더/Next.js/정리 폴더/클라 컴포의 자식은 클라 컴포.md",
+    "IDE/vscode/vscode extension",
+    "Attatched File/Pasted image 20250916184549.png",
+    "웹 개발/프론트엔드 (FE)/폴더/Next.js/정리 폴더/Route Handler.md",
+    "웹 개발/프론트엔드 (FE)/폴더/Next.js/정리 폴더/Route Segment Config.md",
+    "웹 개발/프론트엔드 (FE)/폴더/Next.js/메인 노트/Next.md",
+    "웹 개발/프론트엔드 (FE)/폴더/Next.js/메인 노트/API KEY (서버, 클라).md",
+    "Attatched File/Pasted image 20250915153645.png",
+    "웹 개발/프론트엔드 (FE)/폴더/React/메인 노트/React 시작하기.md",
+    "웹 개발/프론트엔드 (FE)/폴더/Next.js/정리 폴더",
+    "웹 개발/프론트엔드 (FE)/폴더/Next.js/메인 노트",
+    "웹 개발/프론트엔드 (FE)/폴더/Next.js",
+    "Attatched File/Pasted image 20250830230308.png",
+    "웹 개발/배포",
+    "웹 개발/백엔드 (BE)/공통",
+    "웹 개발/프론트엔드 (FE)/프론트 공통 지식",
+    "한 마디 글귀",
+    "무제.canvas",
+    "사진캠버스.canvas"
+  ]
+}
