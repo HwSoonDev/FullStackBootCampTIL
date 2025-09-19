@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "웹 개발/백엔드 (BE)/DB/관계형/Prisma/2. 관계/onDelete (참조 개체가 사라지면..).md",
+                "file": "웹 개발/백엔드 (BE)/DB/관계형/Prisma/2. 관계/transaction 쿼리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "onDelete (참조 개체가 사라지면..)"
+              "title": "transaction 쿼리"
             }
           }
         ],
@@ -173,11 +173,15 @@
   },
   "active": "9576b1a999241338",
   "lastOpenFiles": [
+    "웹 개발/백엔드 (BE)/DB/관계형/Prisma/2. 관계/비즈니스 로직.md",
+    "웹 개발/백엔드 (BE)/DB/관계형/Prisma/2. 관계/transaction 쿼리.md",
+    "웹 개발/백엔드 (BE)/DB/관계형/Prisma/2. 관계/Computed 필드.md",
+    "웹 개발/백엔드 (BE)/DB/관계형/Prisma/2. 관계/관련된 객체 조회하기.md",
+    "웹 개발/백엔드 (BE)/DB/관계형/Prisma/2. 관계/onDelete (참조 개체가 사라지면..).md",
     "Attatched File/Pasted image 20250918185409.png",
     "Attatched File/Pasted image 20250918185318.png",
     "Attatched File/Pasted image 20250918185126.png",
     "웹 개발/백엔드 (BE)/DB/관계형/Prisma/2. 관계/ERD (E-R 다이어그램).md",
-    "웹 개발/백엔드 (BE)/DB/관계형/Prisma/2. 관계/onDelete (참조 개체가 사라지면..).md",
     "웹 개발/백엔드 (BE)/DB/관계형/Prisma/1. 기본 개념/무제.md",
     "웹 개발/백엔드 (BE)/DB/관계형/Prisma/2. 관계/다대다 만들기.md",
     "웹 개발/백엔드 (BE)/DB/관계형/Prisma/2. 관계/일대일 만들기.md",
@@ -207,14 +211,10 @@
     "Attatched File/Pasted image 20250916184549.png",
     "웹 개발/프론트엔드 (FE)/폴더/Next.js/정리 폴더/Route Handler.md",
     "웹 개발/프론트엔드 (FE)/폴더/Next.js/정리 폴더/Route Segment Config.md",
-    "웹 개발/프론트엔드 (FE)/폴더/Next.js/메인 노트/Next.md",
-    "웹 개발/프론트엔드 (FE)/폴더/Next.js/메인 노트/API KEY (서버, 클라).md",
     "Attatched File/Pasted image 20250915153645.png",
-    "웹 개발/프론트엔드 (FE)/폴더/React/메인 노트/React 시작하기.md",
     "웹 개발/프론트엔드 (FE)/폴더/Next.js/정리 폴더",
     "웹 개발/프론트엔드 (FE)/폴더/Next.js/메인 노트",
     "웹 개발/프론트엔드 (FE)/폴더/Next.js",
-    "Attatched File/Pasted image 20250830230308.png",
     "웹 개발/배포",
     "웹 개발/백엔드 (BE)/공통",
     "웹 개발/프론트엔드 (FE)/프론트 공통 지식",
