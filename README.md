@@ -126,11 +126,11 @@
 
 ### 2025-10-13
 
-- 파트 2 진입 — Next.js, TanStack Query, Auth, Express, API 심화 학습 (순차 정리·업로드 예정)
+- 파트 2 진입 — Next.js, React Query, Auth, Express, API 심화 학습 (순차 정리·업로드 예정)
 - **Auth (인증·인가)** — 쿠키, 세션, 캐시, 로컬 스토리지
 
 ### 2026-03-28
 
 - TIL 정리 재시작
-- 폴더 구조 개선선
+- 폴더 구조 개선
 - Next,js, React Query, AWS 추가
