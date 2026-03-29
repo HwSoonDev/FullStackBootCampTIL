@@ -4,65 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d0eb8ca63ec657f1",
+        "id": "dc1c5e200b27441a",
         "type": "tabs",
         "children": [
           {
-            "id": "9998bc32a40ae052",
+            "id": "4a4c16e256ec7914",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Auth (인증, 인가, 위임)/1. 세션 vs 토큰/3) 보안 위험 비교/XSS 공격.md",
+                "file": "작성 일기/26.03.29 Docker (도커).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "XSS 공격"
-            }
-          },
-          {
-            "id": "ef58bd221ca5f5cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Auth (인증, 인가, 위임)/1. 세션 vs 토큰/3) 보안 위험 비교/CSRF 공격.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CSRF 공격"
-            }
-          },
-          {
-            "id": "6e95ac7ed08030d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Auth (인증, 인가, 위임)/1. 세션 vs 토큰/쿠키, 세션, 캐시.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "쿠키, 세션, 캐시"
-            }
-          },
-          {
-            "id": "b1b66c387a649cc2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.12.7"
+              "title": "26.03.29 Docker (도커)"
             }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -212,54 +171,53 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b1b66c387a649cc2",
+  "active": "4a4c16e256ec7914",
   "lastOpenFiles": [
+    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Docker/내 프로젝트로 이해하기/Nginx/공인 IP 도메인 연결하기.md",
+    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Docker/내 프로젝트로 이해하기/Nginx/Nginx.md",
+    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Docker/내 프로젝트로 이해하기/Cretbot (Let's Encrypt)/Certbot.md",
+    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Docker/내 프로젝트로 이해하기/Cretbot (Let's Encrypt)/최초 발급.md",
+    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Docker/내 프로젝트로 이해하기/Nginx/ssl 설정.md",
+    "Attatched File/Pasted image 20260329190610.png",
+    "Attatched File/Pasted image 20260329185020.png",
+    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Docker/내 프로젝트로 이해하기/Cretbot (Let's Encrypt)/Nginx의 default.config 설정.md",
+    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Docker/내 프로젝트로 이해하기/Cretbot (Let's Encrypt)/docker-compose 설정 이해하기.md",
+    "Attatched File/Pasted image 20260329181556.png",
+    "Attatched File/Pasted image 20260329181552.png",
+    "Attatched File/Pasted image 20260329181231.png",
+    "작성 일기/26.03.29 Docker (도커).md",
+    "Attatched File/Pasted image 20260329175205.png",
+    "Attatched File/Pasted image 20260329175058.png",
+    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Docker/내 프로젝트로 이해하기/번외/라즈베리파이 docker 가이드.md",
+    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Docker/내 프로젝트로 이해하기/Cretbot (Let's Encrypt)",
+    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Docker/내 프로젝트로 이해하기/번외",
+    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Docker/Docker 시작하기.md",
+    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Docker/Env 환경 변수 설정 차이.md",
+    "노트/3. 웹 개발/Node 기반 (FE, BE)/2. 백엔드 (BE)/공통/쿠키(Cookie) 설정 알아두기!.md",
+    "노트/3. 웹 개발/Node 기반 (FE, BE)/2. 백엔드 (BE)/공통/무제",
+    "Attatched File/Pasted image 20260329143238.png",
+    "Attatched File/Pasted image 20260329142652.png",
+    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Docker/내 프로젝트로 이해하기/Nginx",
+    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Docker/내 프로젝트로 이해하기/프론트 (Next.js)/Next.js 도커 빌드 이해하기.md",
+    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Docker/내 프로젝트로 이해하기/프론트 (Next.js)/Next.js는 빌드 시점에 env가 박힌다!! (초중요).md",
+    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Docker/내 프로젝트로 이해하기/백 (Express)",
+    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Docker/내 프로젝트로 이해하기/프론트 (Next.js)",
+    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Docker/Docker란.md",
+    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Docker/내 프로젝트로 이해하기/docker-compose.yml 이해하기.md",
+    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Docker/내 프로젝트로 이해하기",
+    "Attatched File/Pasted image 20260329115243.png",
+    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Auth (인증, 인가, 위임)/1. 세션 vs 토큰/1) 세션/실습/session.ts.md",
+    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Docker",
+    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Auth (인증, 인가, 위임)/1. 세션 vs 토큰/1) 세션/세션 (Session).md",
+    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Auth (인증, 인가, 위임)/1. 세션 vs 토큰/1) 세션/실습",
     "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Auth (인증, 인가, 위임)/1. 세션 vs 토큰/세션-쿠키 방식 vs 토큰-로컬 스토리지 방식.md",
-    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Auth (인증, 인가, 위임)/Auth.md",
-    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Auth (인증, 인가, 위임)/Oauth/백엔드 Oauth 리디렉션 (+쿠키가 남는 원리).md",
-    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Auth (인증, 인가, 위임)/Oauth/구글 OCID 만들기.md",
-    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Auth (인증, 인가, 위임)/1. 세션 vs 토큰/2) 토큰 (JWT)/로컬 토큰/고급 프로젝트 auth 구조 공부.md",
-    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Auth (인증, 인가, 위임)/1. 세션 vs 토큰/1) 세션-쿠키/2. 백/쿠키/Set-Cookie.md",
-    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Auth (인증, 인가, 위임)/1. 세션 vs 토큰/3) 보안 위험 비교/CSRF 공격.md",
-    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Auth (인증, 인가, 위임)/1. 세션 vs 토큰/3) 보안 위험 비교/XSS 공격.md",
-    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Auth (인증, 인가, 위임)/0. 암호화, 해싱/암호화 vs 해싱(Hashing).md",
-    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Auth (인증, 인가, 위임)/0. 암호화, 해싱/키 파생 함수.md",
-    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Auth (인증, 인가, 위임)/0. 암호화, 해싱",
-    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Auth (인증, 인가, 위임)/1. 세션 vs 토큰/2) 토큰 (JWT)/로컬 토큰(Local Storage) vs 쿠키 토큰(Cookie) 비교 정리.md",
-    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Auth (인증, 인가, 위임)/1. 세션 vs 토큰/1) 세션-쿠키/2. 백/세션 방식 (백).md",
-    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Auth (인증, 인가, 위임)/1. 세션 vs 토큰/1) 세션-쿠키/2. 백/토큰 방식 (백).md",
-    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Auth (인증, 인가, 위임)/1. 세션 vs 토큰/1) 세션-쿠키/2. 백/세션방식 vs 토큰방식.md",
     "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Auth (인증, 인가, 위임)/1. 세션 vs 토큰/쿠키, 세션, 캐시.md",
-    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Auth (인증, 인가, 위임)/1. 세션 vs 토큰/3) 보안 위험 비교/쿠키 보안.md",
-    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Auth (인증, 인가, 위임)/1. 세션 vs 토큰/3) 보안 위험 비교",
-    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Auth (인증, 인가, 위임)/1. 세션 vs 토큰/2) 토큰 (JWT)/쿠키 토큰",
-    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Auth (인증, 인가, 위임)/1. 세션 vs 토큰/2) 토큰 (JWT)/로컬 토큰",
-    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/실시간 통신/1. 웹소켓/웹 소켓 (Web Socket).md",
-    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Auth (인증, 인가, 위임)/정리 폴더/무제",
-    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/실시간 통신/1. 웹소켓/socket.io.md",
-    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/실시간 통신/0. SSE.md",
-    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/실시간 통신/0. SSE",
-    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/실시간 통신/0. SSE/SSE, Server Sent Event.md",
-    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/트래픽관리와 로그/트래픽 관리 (TPS).md",
-    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/트래픽관리와 로그/로드밸런서 vs 클러스터링, PM2.md",
-    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/pakage.json과 의존성 관리(dependencies).md",
-    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/관심사 분리 (Separation of Concerns).md",
-    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/AWS/AWS.md",
-    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/AWS/내 실습 계정 정보.md",
-    "노트/3. 웹 개발/Node 기반 (FE, BE)/0. 언어",
-    "노트/0. 공통지식/DB",
-    "노트/3. 웹 개발/Node 기반 (FE, BE)/2. 백엔드 (BE)/DB/관계형/기초 이론",
-    "작성 일기",
-    "Attatched File/Pasted image 20260204204948.png",
-    "Attatched File/Pasted image 20260123220035.png",
-    "Attatched File/Pasted image 20260123214549.png",
-    "Attatched File/Pasted image 20260123214532.png",
-    "Attatched File/Pasted image 20260123171255.png",
-    "Attatched File/Pasted image 20260123165820.png",
-    "Attatched File/Pasted image 20260123154230.png",
-    "Attatched File/Pasted image 20260123154114.png",
-    "Attatched File/Pasted image 20260123150750.png",
-    "Attatched File/Pasted image 20260123133917.png",
+    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Auth (인증, 인가, 위임)/1. 세션 vs 토큰/1) 세션/Set-Cookie.md",
+    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Auth (인증, 인가, 위임)/1. 세션 vs 토큰/1) 세션-쿠키/2. 백/토큰 방식 (백).md",
+    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Auth (인증, 인가, 위임)/1. 세션 vs 토큰/1) 세션-쿠키/2. 백/세션 방식 (백).md",
+    "노트/3. 웹 개발/Node 기반 (FE, BE)/3. 공통/Auth (인증, 인가, 위임)/1. 세션 vs 토큰/1) 세션-쿠키/2. 백/세션방식 vs 토큰방식.md",
+    "노트/3. 웹 개발/Node 기반 (FE, BE)/2. 백엔드 (BE)/DB/관계형/ORM/Prisma/4. 실습/lib 설정 - DB와 백 연결하기.md",
+    "노트/3. 웹 개발/Node 기반 (FE, BE)/2. 백엔드 (BE)/DB/관계형/ORM/Prisma/4. 실습",
     "무제.canvas",
     "사진캠버스.canvas"
   ]

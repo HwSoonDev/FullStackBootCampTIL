@@ -134,3 +134,17 @@
 - TIL 정리 재시작
 - 폴더 구조 개선
 - Next,js, React Query, AWS 추가
+
+### 2026-03-29
+
+서버 CI/CD 겸 Docker를 공부했습니다.
+
+- Docker란
+- Docker 시작하기
+- Env 환경 변수 설정 차이
+- Next.js 도커 빌드 이해하기
+- Next.js는 빌드 시점에 env가 박힌다!! (초중요)
+- Nginx
+- 공인 IP 도메인 연결하기
+- Certbot (https 인증서 관리 도구)
+- 쿠키(Cookie) 설정 알아두기!

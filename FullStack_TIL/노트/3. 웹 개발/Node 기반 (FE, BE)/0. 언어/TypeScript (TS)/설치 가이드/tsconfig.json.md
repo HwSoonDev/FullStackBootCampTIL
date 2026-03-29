@@ -26,6 +26,15 @@ typescript는 commonjs, es모듈 방식 둘 다로 번역될 수 있어,
 ```
 
 #### target, module 설정 차이
+
+target과 module 설정에 따라 변환되어 나오는 js 파일이 문법이 달라진다.
+
+```js
+"target": "es2016",           // 어떤 JS 버전으로 컴파일할지
+"module": "esnext", 
+```
+
+
 target (es 모듈 버전)
 ![[Pasted image 20251117131715.png]]
 
