@@ -148,3 +148,12 @@
 - 공인 IP 도메인 연결하기
 - Certbot (https 인증서 관리 도구)
 - 쿠키(Cookie) 설정 알아두기!
+
+### 2026-03-30
+
+위클리 페이퍼
+
+- 0.  Auth - JWT
+- 1.  AWS - IAM
+- 2.  Jest - 좋은 테스트란
+- 3.  Next.js (React 비교)
